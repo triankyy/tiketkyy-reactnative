@@ -1,0 +1,27 @@
+1. Persetujuan Judul projek
+2. Desain sistem :
+    - usecase
+    - D. Konteks
+    - DFD
+    - ERD
+3. Desain Database : 
+    - Struktur Tabel/collection
+    - PK & FK--
+    - Relasi--
+4. Desain Form :
+    - Desain Form...
+    - Desain Form...
+    - dst
+5. Programming (Coding/ Scripting) :
+    - Pembuatan validasi
+    - Pembuatan Modul
+    - Pembuatan Library
+    - Pembuatan Procedure & fungsi
+6. Desain Laporan :
+    - Laporan ... 1
+    - Laporan ... 2
+    - dst
+7. Uji coba program
+8. Penulisan Laporan TA
+9. Pengesahan
+10. UKK
